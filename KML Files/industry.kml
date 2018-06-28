@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="IndustryA_O - Industry or Utilities Area features" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>IndustryA_O - Industry or Utilities Area features</name>
+	<open>1</open>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle01">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>IndustryA_O - Industry or Utilities Area features</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00001">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_SCALE</td>
+
+<td>15k</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>quarry</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AA012 - Quarry</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.75623261928559,39.20112180709839,0 20.75559806823731,39.20217935740947,0 20.75401175022125,39.20249663293362,0 20.75475203990936,39.19868947565557,0 20.75623261928559,39.20112180709839,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.81534901261331,39.21159143745898,0 20.81450295448302,39.2125432342291,0 20.8110130429268,39.21254323422909,0 20.81016707420348,39.20958212018014,0 20.81355115771292,39.20831306278705,0 20.80932101607323,39.20852456986903,0 20.80932101607322,39.2072555422783,0 20.8139741718769,39.20429442822933,0 20.81492599844932,39.20524622499941,0 20.81312814354895,39.20662100613117,0 20.8153490126133,39.2069382816553,0 20.81534901261331,39.21159143745898,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.90323039889335,39.24088524281977,0 20.90217283368111,39.24056798219681,0 20.90243229269982,39.23784384131432,0 20.9023299217224,39.23760601878167,0 20.90147164463998,39.23773899674416,0 20.90061336755753,39.23773899674415,0 20.90044158697127,39.23720721900464,0 20.89975500106811,39.23640942573547,0 20.89923998713493,39.23547872900962,0 20.89992663264275,39.23454803228378,0 20.90112832188605,39.23375019431114,0 20.90164318680764,39.23295243084431,0 20.90198656916618,39.232553511858,0 20.90301656723023,39.23255351185799,0 20.9047330915928,39.23135682940483,0 20.90438976883889,39.23454803228378,0 20.9038044810295,39.2365884333849,0 20.90619146823883,39.23750111460685,0 20.90323039889335,39.24088524281977,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_SCALE</td>
+
+<td>15k</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>quarry</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AA012 - Quarry</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								21.04823958873748,39.42202062904836,0 21.04875615239142,39.42206543684006,0 21.04906940460204,39.42221783101559,0 21.0491275191307,39.42242401838303,0 21.04901722073554,39.42266160249709,0 21.04876771569251,39.42292162775993,0 21.04854133725167,39.4230246990919,0 21.04825702309609,39.42303821444512,0 21.04790872335435,39.42308302223682,0 21.04745614528657,39.42292162775994,0 21.04701513051987,39.42277370393276,0 21.04691064357759,39.42268389463425,0 21.04684102535247,39.42243301868438,0 21.04681783914568,39.42234328389166,0 21.04696869850159,39.42223130166532,0 21.04713121056556,39.42220440506935,0 21.04742711782455,39.42219081521035,0 21.04757803678512,39.42211923003197,0 21.04782170057296,39.42198470234872,0 21.04823958873748,39.42202062904836,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_SCALE</td>
+
+<td>15k</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>quarry</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AA012 - Quarry</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.91685339808465,39.23566728830336,0 20.91652423143388,39.23572528362274,0 20.91609033942223,39.23572528362274,0 20.91576117277145,39.23586429655553,0 20.91546180844307,39.23613099753857,0 20.91474351286889,39.23592233657838,0 20.91414502263071,39.23531949520112,0 20.91459393501282,39.2350182980299,0 20.91508769989015,39.2350994348526,0 20.91513261198996,39.23491401970387,0 20.91561144590379,39.23480969667435,0 20.91607531905174,39.23477493226528,0 20.91629976034164,39.23469379544259,0 20.91644135117532,39.2348089069128,0 20.91659912467003,39.23493720591068,0 20.91685339808465,39.23566728830336,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_SCALE</td>
+
+<td>15k</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>quarry</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AA012 - Quarry</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.90449249744415,39.43977434933185,0 20.9045945107937,39.43983857333661,0 20.90466570854186,39.4399157166481,0 20.90468457341195,39.43995755910873,0 20.90468955039977,39.4400007724762,0 20.904539167881,39.44114165008067,0 20.90428161621095,39.4422074407339,0 20.90392807126046,39.44320508837699,0 20.90391007065773,39.44324369728565,0 20.90381345152855,39.44338957965375,0 20.90368449687959,39.44352066516876,0 20.90336859226227,39.4437333792448,0 20.90303975343705,39.44387134909631,0 20.90295132994653,39.44389021396636,0 20.90265932679178,39.44388765096664,0 20.90251624584198,39.44385887682437,0 20.90239882469177,39.44381275773048,0 20.90235531330108,39.44378346204758,0 20.90232503414154,39.44375005364417,0 20.90231543779374,39.44373185932635,0 20.90231001377105,39.44371271133423,0 20.90230673551561,39.44367811083793,0 20.90231254696847,39.4436033219099,0 20.90233319997788,39.44352199137212,0 20.90281766653062,39.44253885746004,0 20.90323007106781,39.44063526391985,0 20.90325477719307,39.44059653580189,0 20.90327849984168,39.4405767917633,0 20.90348523855208,39.44050824642183,0 20.90355461835861,39.4404830634594,0 20.90361079573632,39.44044493138789,0 20.9040538072586,39.43978178501129,0 20.90410041809084,39.43974277377128,0 20.90415012836456,39.43971523642539,0 20.9041686654091,39.43970911204815,0 20.9042629301548,39.43970459699629,0 20.90449249744415,39.43977434933185,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_SCALE</td>
+
+<td>15k</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>quarry</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AA012 - Quarry</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.98117962479592,39.27514000236988,0 20.98135310411454,39.27516709268092,0 20.98139920830726,39.27518212795259,0 20.98144319653511,39.27520450949668,0 20.9814849793911,39.27523387968539,0 20.98156219720839,39.27531147003173,0 20.98169186711312,39.27552905678749,0 20.98185923695564,39.27610670030119,0 20.98191711306572,39.27667117118835,0 20.98191687464715,39.27671949565411,0 20.98184701800347,39.27713784575464,0 20.98166853189468,39.27754519879818,0 20.98154437541961,39.27771493792535,0 20.98140010237692,39.2778462022543,0 20.98133438825608,39.27788811922073,0 20.98118907213212,39.27795810997488,0 20.98102816939354,39.27801246941089,0 20.98030346632004,39.27814307808875,0 20.97994399070739,39.27820447087289,0 20.97962599992752,39.27829998731612,0 20.97949177026747,39.27836917340756,0 20.97937899827957,39.27845722436905,0 20.97934663295747,39.27849592268466,0 20.97932112216948,39.27854104340076,0 20.97930186986923,39.27859191596509,0 20.97927987575531,39.27870871126652,0 20.97935244441034,39.27957665920258,0 20.97935318946838,39.27970418334008,0 20.9793375134468,39.27981406450271,0 20.97932207584381,39.27986082434655,0 20.97930082678795,39.27990135550498,0 20.97927293181419,39.27993504703045,0 20.97923797369002,39.279961258173,0 20.97917458415031,39.27999392151833,0 20.9790239930153,39.28005042672157,0 20.97864878177642,39.28012821078301,0 20.97821503877641,39.28015786409378,0 20.97777125239373,39.28013835847377,0 20.97736573219298,39.28006862103939,0 20.97719243168832,39.28001454472543,0 20.9770467877388,39.27994747459889,0 20.97698625922203,39.279909029603,0 20.97693493962287,39.27986730635166,0 20.97689938545227,39.27982781827449,0 20.97686874866486,39.27978084981442,0 20.97684285044671,39.2797270566225,0 20.97680488228798,39.27960115671159,0 20.97677826881408,39.27929267287254,0 20.97680816054345,39.27893967926501,0 20.97688323259353,39.27857953310011,0 20.97699195146562,39.27824959158897,0 20.97712296247482,39.27798719704153,0 20.97715148329735,39.27794967591763,0 20.97722527384757,39.27788780629635,0 20.97731798887253,39.27784107625485,0 20.97817346453667,39.27767433226108,0 20.97827899456024,39.27763600647449,0 20.97836875915528,39.27758464217187,0 20.97840657830238,39.27755315601825,0 20.97843903303145,39.27751718461514,0 20.97847029566765,39.27747014164923,0 20.97851625084876,39.277361497283,0 20.9785563647747,39.27709959447384,0 20.97856733202935,39.27622373402118,0 20.97859770059586,39.27610363066195,0 20.97864750027656,39.27600087225437,0 20.97868099808694,39.27595715224743,0 20.97872096300124,39.27591913938522,0 20.97879761457444,39.27586050331593,0 20.9791644513607,39.27563692629337,0 20.97960144281388,39.275440081954,0 20.98007372021675,39.27528229355813,0 20.98054638504981,39.27517597377301,0 20.98098441958428,39.27513349056245,0 20.98117962479592,39.27514000236988,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_SCALE</td>
+
+<td>15k</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>02/02/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>quarry</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AA012 - Quarry</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.97152918577195,39.27944064140321,0 20.97185277938842,39.27949424088001,0 20.97214078903199,39.2795852869749,0 20.97228610515595,39.27966573834419,0 20.97248673439027,39.27983005344868,0 20.97267571091652,39.28003768622875,0 20.97283190488814,39.28026466071605,0 20.97293406724929,39.28048720955849,0 20.9729582965374,39.28058932721614,0 20.97296109795571,39.28068137168884,0 20.97295358777046,39.28072264790535,0 20.97293975949286,39.28076030313969,0 20.9729098379612,39.28081406652927,0 20.97282871603966,39.28091721236707,0 20.97272208333014,39.28101509809493,0 20.97244709730148,39.28119747340681,0 20.97105973958969,39.28184136748314,0 20.96988466382026,39.28235839307308,0 20.96922311186791,39.28256042301656,0 20.96902081370355,39.28259451687335,0 20.96883165836334,39.2825939655304,0 20.96874412894249,39.28257681429386,0 20.96866261959075,39.28254640102386,0 20.96848705410957,39.28244504332542,0 20.96798250079155,39.28201921284198,0 20.96776300668715,39.2817682623863,0 20.96760264039041,39.28152529895306,0 20.96755349636078,39.28141458332539,0 20.96752959489821,39.28131522238254,0 20.96752822399141,39.2812707722187,0 20.9675346314907,39.28123033046724,0 20.9675496518612,39.28119315207005,0 20.96757364273072,39.28115898370744,0 20.96760591864586,39.28112757205962,0 20.96769291162491,39.28107202053069,0 20.96793967485428,39.28098280727863,0 20.9685873091221,39.28083495795727,0 20.96890991926194,39.28074376285075,0 20.96917963027954,39.28061933815479,0 20.96922439336777,39.28058823943139,0 20.9693853855133,39.28043197095395,0 20.96965804696084,39.28003880381585,0 20.96979323029519,39.27984692156316,0 20.96994319558143,39.27968828380108,0 20.97002735733985,39.2796284109354,0 20.97011968493462,39.2795852869749,0 20.97019115090371,39.27956166863441,0 20.97083765268326,39.27943792939186,0 20.97152918577195,39.27944064140321,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
