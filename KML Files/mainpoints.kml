@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="PopP_M - Main Point of Interest" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>PopP_M - Main Point of Interest</name>
+	<open>1</open>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle05">
+		<IconStyle>
+			<Icon>
+				<href>Layer0_Symbol_3f614430.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff732600</color>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle049">
+		<IconStyle>
+			<Icon>
+				<href>Layer0_Symbol_3f613870.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff732600</color>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>PopP_M - Main Point of Interest</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00029">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>place of worship - christian</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Religious</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>20.80120784044266,39.17354570329189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>place of worship - christian</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Religious</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>21.02089667320252,39.09220561385155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>place of worship - christian</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Religious</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>21.02695453166962,39.06965221464634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>place of worship - christian</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Religious</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>21.03830033540726,39.05921080708504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>place of worship - christian</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Religious</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>21.12425151467323,39.58312152326106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>place of worship - christian</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Religious</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>20.98934262990952,39.14494410157204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>place of worship - christian</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Religious</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>20.98243376612663,39.25105202198029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>place of worship - christian</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Religious</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>20.98774909973145,39.26068679988384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SRC_DATE</td>
+
+<td>04/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OGA</td>
+
+<td>Unk</td>
+
+</tr>
+
+<tr>
+
+<td>FUC</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SRC_INFO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ACT_ID</td>
+
+<td>EMSR-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXT_SCALE</td>
+
+<td>50k</td>
+
+</tr>
+
+<tr>
+
+<td>NAM</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FUN</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FCSubtype</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SRC_NAME</td>
+
+<td>1062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TXT</td>
+
+<td>clinic</td>
+
+</tr>
+
+<tr>
+
+<td>shape</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr>
+
+<td>subtype</td>
+
+<td>AL015 - Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>admin_lev</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>settl_type</td>
+
+<td>Medical</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>functional</td>
+
+<td>Fully Functional</td>
+
+</tr>
+
+<tr>
+
+<td>source_nam</td>
+
+<td>Open Street Map</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle049</styleUrl>
+			<Point>
+				<coordinates>20.99181753396988,39.10129062831402,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
